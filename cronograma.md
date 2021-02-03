@@ -10,9 +10,11 @@
   - [x] Realizar deduções na construção do programa
   - [x] Enumerar as etapas a serem realizadas
   - [x] Analisar outras possibilidades de solução 
-  - [x] Ensinarao computador uma solução
+  - [x] Ensinar ao computador uma solução
   - [x] Pensar em todos os detalhes
 
   
 
+  ### 03/02/2021
+  
   
