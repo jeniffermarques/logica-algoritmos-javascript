@@ -6,12 +6,12 @@
 
   1.1 Lógica de Programação
 
-  - [ ] Compreender o que é pedido
-  - [ ] Realizar deduções na construção do programa
-  - [ ] Enumerar as etapasa serem realizadas
-  - [ ] Analisar outras possibilidades de solução 
-  - [ ] Ensinarao computador uma solução
-  - [ ] Pensar em todos os detalhes
+  - [x] Compreender o que é pedido
+  - [x] Realizar deduções na construção do programa
+  - [x] Enumerar as etapas a serem realizadas
+  - [x] Analisar outras possibilidades de solução 
+  - [x] Ensinarao computador uma solução
+  - [x] Pensar em todos os detalhes
 
   
 
