@@ -8,3 +8,4 @@ Minha intenção é retomar do **ZERO** e deixar minha memória bem fresca, isso
 
 - Livro - Lógica de Programação e Algoritmos com Javascript - Edécio Fernando Lepsen - Editora Novatec.
 
+Você pode acompanhar meu cronograma [aqui](https://github.com/jeniffermarques/logica-algoritmos-javascript/blob/main/cronograma.md).
