@@ -17,17 +17,12 @@
 
   ### 03/02/2021
   
-  - [ ] Entrada, processamento e saída
-  - [ ] JavaScript
-  - [ ] Editores de Código JavaScript
-  - [ ] Saída de dados com alert()
-  - [ ] Variáveis e constantes
-  - [ ] Entrada de dados com prompt()
-  - [ ] Comentários
-  - [ ] Tipos de dados e conversões de tipos
-  - [ ] Exemplos de entrada, processamento e saída
-  - [ ] Exercícios
-  - [ ] Considerações finais do capítulo
-  - [ ] 
-  
-  
+  - [x] Entrada, processamento e saída
+  - [x] JavaScript
+  - [x] Editores de Código JavaScript
+  - [x] Saída de dados com alert()
+  - [x] Variáveis e constantes
+  - [x] Entrada de dados com prompt()
+  - [x] Comentários
+  - [x] Tipos de dados e conversões de tipos
+  - [x] Exemplos de entrada, processamento e saída
